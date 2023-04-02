@@ -37,9 +37,8 @@ et qu'il est testé avant de proposer une pull request.
 
 # Licence
 
-Ce projet est sous licence MIT. 
-Veuillez consulter le fichier LICENSE 
-pour plus d'informations.
+Ce projet n'est pas sous licence.
+Malgré cela, tout droits réservés.
 
 # Développeurs 
 
